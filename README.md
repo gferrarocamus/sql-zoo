@@ -23,5 +23,4 @@ SQL queries for [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) tutorials, i.e.:
 <dt><a href="https://sqlzoo.net/wiki/NSS_Tutorial" title="NSS Tutorial">8+ Numeric Examples</a></dt>
 <dd>In which we look at a survey and deal with some more complex calculations.</dd>
 <dt><a href="https://sqlzoo.net/wiki/Self_join" title="Self join">9 Self join</a></dt>
-<dd>In which we join Edinburgh bus routes to Edinburgh bus routes.</dd>
-</blockquote>
+<dd>In which we join Edinburgh bus routes to Edinburgh bus routes.</dd></blockquote>
